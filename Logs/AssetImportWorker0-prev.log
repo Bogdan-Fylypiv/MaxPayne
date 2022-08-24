@@ -1,0 +1,1175 @@
+Unity Editor version:    2021.2.0a15 (37767e16dc73)
+Branch:                  trunk
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.1 (Build 21C52)
+Darwin version:          21.2.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        32768 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/BogdanPersonal/Downloads/Max Payne
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55029
+Successfully changed project path to: /Users/BogdanPersonal/Downloads/Max Payne
+/Users/BogdanPersonal/Downloads/Max Payne
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.2.0a15 (37767e16dc73)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/BogdanPersonal/Downloads/Max Payne/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+(null) preferred device: Apple M1 Pro (high power)
+Metal devices available: 1
+0: Apple M1 Pro (high power)
+Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56555
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000578 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 24.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.596 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000338 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.119 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1167 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 9 unused Assets / (44.4 KB). Loaded Objects now: 1680.
+Memory consumption went from 221.0 MB to 221.0 MB.
+Total: 2.360708 ms (FindLiveObjects: 0.080792 ms CreateObjectMapping: 0.024416 ms MarkObjects: 2.133958 ms  DeleteObjects: 0.120584 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/_TerrainAutoUpgrade/layer_Terrain_Cliff_2ATerrain_Cliff_2A Normal54b157c23ebda70b.terrainlayer
+  artifactKey: Guid(6a65d0b2c2bb34d06a7ed5e739c33d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Terrain_Cliff_2ATerrain_Cliff_2A Normal54b157c23ebda70b.terrainlayer using Guid(6a65d0b2c2bb34d06a7ed5e739c33d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c582b8e5e3ea6acae710a1a98a1e2ea') in 0.197685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Ground_Terrain_1AGround_Terrain_1A Normal5c23ac7c8f6dad75.terrainlayer
+  artifactKey: Guid(ea230da99cdbf4fbd9a3f76c7f460033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Ground_Terrain_1AGround_Terrain_1A Normal5c23ac7c8f6dad75.terrainlayer using Guid(ea230da99cdbf4fbd9a3f76c7f460033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144b5d73b077498ab98f21b06bfa40c7') in 0.011043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Prefabs/GunBullet.prefab
+  artifactKey: Guid(a5e845b608a5b3d48b546a90ca69c306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GunBullet.prefab using Guid(a5e845b608a5b3d48b546a90ca69c306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f5d709de499ddc7ee8dbdea07acaa73') in 0.170960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(9071867e8567e8c4e858c7dbab5ce250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(9071867e8567e8c4e858c7dbab5ce250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f42855107a9a725afef9d3db341c419') in 0.000502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Prefabs/Rifle Ammo.prefab
+  artifactKey: Guid(21dbd119f7fce084494949c4f17212f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rifle Ammo.prefab using Guid(21dbd119f7fce084494949c4f17212f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a45c55b125f728d1a0d6d0fdf2c09826') in 0.034869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Groundplants_1AGroundplants_1A Normal2e52766c7c1d69e.terrainlayer
+  artifactKey: Guid(fe94115c311bf4160bea9f83ae39570c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Groundplants_1AGroundplants_1A Normal2e52766c7c1d69e.terrainlayer using Guid(fe94115c311bf4160bea9f83ae39570c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83e51b712f397997b42f4f104276802') in 0.006652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Ground_1AGround_1A Normal8b14d1b41aa9d2e3.terrainlayer
+  artifactKey: Guid(f9f7ac9f3021a459ab2eeb3c48ca9e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_Ground_1AGround_1A Normal8b14d1b41aa9d2e3.terrainlayer using Guid(f9f7ac9f3021a459ab2eeb3c48ca9e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d5dfba751ceb019752b515e72b95826') in 0.006872 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Prefabs/ShotgunBullet.prefab
+  artifactKey: Guid(495020e99d9f4e247ac78874a35b093d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ShotgunBullet.prefab using Guid(495020e99d9f4e247ac78874a35b093d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826f067fc18213946f9bc5c440499385') in 0.005742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Prefabs/Shotgun Ammo.prefab
+  artifactKey: Guid(6e933e682d717c041ad25507c7ee50ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Shotgun Ammo.prefab using Guid(6e933e682d717c041ad25507c7ee50ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837b9f25c250404ff5f1243fe95d94a0') in 0.007224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Prefabs/Health Pills.prefab
+  artifactKey: Guid(a4cd7193ea2a97e4095cca91967b866a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Health Pills.prefab using Guid(a4cd7193ea2a97e4095cca91967b866a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea54af6974f8aa2367fefacbed07eeb') in 0.006549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.368898 seconds.
+  path: Assets/UF Creator LITE
+  artifactKey: Guid(401154705f11a468991291a5eb84b344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UF Creator LITE using Guid(401154705f11a468991291a5eb84b344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '978f5658239894bf2aae45f8adb7930f') in 0.000817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.116874 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Boards_Group_1A.prefab
+  artifactKey: Guid(d6879c92ea189c947b3e0611ba3916f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Boards_Group_1A.prefab using Guid(d6879c92ea189c947b3e0611ba3916f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d2e73386625b28bd595688e66539fad') in 0.370215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Scaffolding_3B.prefab
+  artifactKey: Guid(310c9babad062774aab495f39a7e078e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Scaffolding_3B.prefab using Guid(310c9babad062774aab495f39a7e078e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d209e8b04b8fa400c7d87bb7f119a8a') in 0.010927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_Platform_1C.prefab
+  artifactKey: Guid(fecb4680d6b8e44469c2fe531aa8a041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_Platform_1C.prefab using Guid(fecb4680d6b8e44469c2fe531aa8a041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baa89ecaa32f5ba470a52ed5324ef8c6') in 0.012455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Boards_Group_1B.prefab
+  artifactKey: Guid(47d9203b0b615ba4eb5e93ec73e91450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Boards_Group_1B.prefab using Guid(47d9203b0b615ba4eb5e93ec73e91450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbda795f5e78d341c6fb8a32b53f0f4') in 0.010793 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1G.prefab
+  artifactKey: Guid(e55585764488e8144a956b31e590f114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1G.prefab using Guid(e55585764488e8144a956b31e590f114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5242345880a2caee3c62ef4337c7896') in 0.010838 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Scaffolding_3G.prefab
+  artifactKey: Guid(570fc78a3e7e92e42b3d46017c85272f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Scaffolding_3G.prefab using Guid(570fc78a3e7e92e42b3d46017c85272f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e4e2deb9c0dba1c1216fc567bff5ad') in 0.011017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1C.prefab
+  artifactKey: Guid(f0ed989170c7ddc4aa0e01a3d9d6f901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1C.prefab using Guid(f0ed989170c7ddc4aa0e01a3d9d6f901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e010389437ede62c52e5bc54a9d0b7a7') in 0.010894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Boards_Group_1D.prefab
+  artifactKey: Guid(213203fb5caf82f4a9e669fe230f7cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Boards_Group_1D.prefab using Guid(213203fb5caf82f4a9e669fe230f7cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d349740d5803b9f605ae8c3566455f') in 0.017300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Boards_Group_1E.prefab
+  artifactKey: Guid(aa9fe96409fc3ed45af918569d1910a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Boards_Group_1E.prefab using Guid(aa9fe96409fc3ed45af918569d1910a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0918ae48d51667c7bb83be4bd7943953') in 0.010708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Gatehouse_Platform_1D.prefab
+  artifactKey: Guid(a84043236096c80489870f4cb9f4b0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Gatehouse_Platform_1D.prefab using Guid(a84043236096c80489870f4cb9f4b0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffef41459e67f3a03173cabd0d1d5f12') in 0.016276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Shed_1A(Open).prefab
+  artifactKey: Guid(4827a734a0ac1ea47940a79341cdb4ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Shed_1A(Open).prefab using Guid(4827a734a0ac1ea47940a79341cdb4ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6948637f42fd0c226832cd4379b36063') in 0.011311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_Platform_1B.prefab
+  artifactKey: Guid(08b231b4675605c4dbb9673e7241124a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_Platform_1B.prefab using Guid(08b231b4675605c4dbb9673e7241124a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb8c06c29c52fa97d244838198fe2b3') in 0.017378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Scaffolding_3A.prefab
+  artifactKey: Guid(442d4c5b8212f1f408fc54ebb63c4abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Scaffolding_3A.prefab using Guid(442d4c5b8212f1f408fc54ebb63c4abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493c390e15e0b1c8ef3352a6af0accf5') in 0.011002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Gatehouse_Platform_1C.prefab
+  artifactKey: Guid(01e750d932efd5f4f802a0485eb62c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Gatehouse_Platform_1C.prefab using Guid(01e750d932efd5f4f802a0485eb62c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebd8c47a2004df57f1fc862e2e3378b8') in 0.017472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1E.prefab
+  artifactKey: Guid(de80a28e092dadb409b39c55bec32235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1E.prefab using Guid(de80a28e092dadb409b39c55bec32235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ffc19937424931a6b1857a8e4dfce45') in 0.010887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Shed_1B.prefab
+  artifactKey: Guid(8e9c5fe9201933c4f99f8718cf0d5e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Shed_1B.prefab using Guid(8e9c5fe9201933c4f99f8718cf0d5e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0117d71330e95459e2b64c743763af') in 0.014621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_Platform_1A.prefab
+  artifactKey: Guid(2566bec145a164c42a80ddbe9419475d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_Platform_1A.prefab using Guid(2566bec145a164c42a80ddbe9419475d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a108c2a852b333c5f6b2a86d4b096b35') in 0.011044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1F.prefab
+  artifactKey: Guid(d642efa9cd9dc1549bfc39a70705cc68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1F.prefab using Guid(d642efa9cd9dc1549bfc39a70705cc68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0bb859ad082b08e03c61b34788a38f0') in 0.015413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_Platform_1D.prefab
+  artifactKey: Guid(efb092e568733164bafe5265e1d27c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_Platform_1D.prefab using Guid(efb092e568733164bafe5265e1d27c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f817c5c998f897c5cf685ac72f0f3d8e') in 0.011214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Gatehouse_Platform_1E.prefab
+  artifactKey: Guid(ebe3bfc72e3e3ae4eb21e111b08545c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Gatehouse_Platform_1E.prefab using Guid(ebe3bfc72e3e3ae4eb21e111b08545c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '494b00ff6a99c1bf61dbd6b81384cfcf') in 0.017608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Shed_1A.prefab
+  artifactKey: Guid(ff72c4c0a1dade049ab0d6d618e0b38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Shed_1A.prefab using Guid(ff72c4c0a1dade049ab0d6d618e0b38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019b2fb1f4734283d4e3f6c9c96aec91') in 0.011128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Guardhouse_1A.prefab
+  artifactKey: Guid(5a2122d91e1c4744291a81ffbda06a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Guardhouse_1A.prefab using Guid(5a2122d91e1c4744291a81ffbda06a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caceb0c8b40490df441b5006cd9ac1c6') in 0.015196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1A.prefab
+  artifactKey: Guid(785c484bed965814f84cd746eea94b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1A.prefab using Guid(785c484bed965814f84cd746eea94b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '840c00ddd09c7946e6ab561f4e4eb403') in 0.010608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1D.prefab
+  artifactKey: Guid(ab4fdd58a7d715343be2e9bb9bad6fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1D.prefab using Guid(ab4fdd58a7d715343be2e9bb9bad6fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea788eedfc87dc3b8b4dce1b3a919c0') in 0.016526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Gatehouse_Platform_1B.prefab
+  artifactKey: Guid(24f6b3e80f915904896371418686d4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Gatehouse_Platform_1B.prefab using Guid(24f6b3e80f915904896371418686d4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2811e806ae53ad9bea0a104ca79aa4ed') in 0.013839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Boards_Group_1C.prefab
+  artifactKey: Guid(f81277c9ada1b074cbdc2a45a789e425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Boards_Group_1C.prefab using Guid(f81277c9ada1b074cbdc2a45a789e425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30691b7a4575fad9a32f2f85cbca39e') in 0.014137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Gatehouse_Platform_1A.prefab
+  artifactKey: Guid(0447725a66737af46a23bf1d652b1246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Gatehouse_Platform_1A.prefab using Guid(0447725a66737af46a23bf1d652b1246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e79a37b1de9e9e02f3facf365642673') in 0.013562 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1B.prefab
+  artifactKey: Guid(7a9bc23fad016ac44ae5bf89b68433ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Support_1B.prefab using Guid(7a9bc23fad016ac44ae5bf89b68433ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '024b9a912a0bb04b299a5b8178b29998') in 0.014743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Scaffolding_3F.prefab
+  artifactKey: Guid(faf71fff68cb5af44a019c4767abcfe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Gatehouses, Scaffolding/Scaffolding_3F.prefab using Guid(faf71fff68cb5af44a019c4767abcfe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ba33889ab7cf9701de56d67b470998f') in 0.010628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 139.730140 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Pavilions/Bench_1A.prefab
+  artifactKey: Guid(7750c33cd3b99c24a9ea19c640a632fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Pavilions/Bench_1A.prefab using Guid(7750c33cd3b99c24a9ea19c640a632fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0600789d47e61d5ad715eeaa9d601e61') in 0.012739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Pavilions/Bench_1C2.prefab
+  artifactKey: Guid(b25a0d2dceadda144afb3673cbc15fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Pavilions/Bench_1C2.prefab using Guid(b25a0d2dceadda144afb3673cbc15fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a61313c1c41380f7e11bc5acf048eec') in 0.010457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Pavilions/Pavilion_1B.prefab
+  artifactKey: Guid(a95d24ca5dca722419f231550a6c2a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Pavilions/Pavilion_1B.prefab using Guid(a95d24ca5dca722419f231550a6c2a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5b3f788b5d50abc51ead226672e28dd') in 0.012679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Pavilions/Bench_1B.prefab
+  artifactKey: Guid(476f0c4a30ef47e48b195c51f105d39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Pavilions/Bench_1B.prefab using Guid(476f0c4a30ef47e48b195c51f105d39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2df3f7dab1df9f62906e20556a5379') in 0.009491 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Pavilions/Pavilion_1A.prefab
+  artifactKey: Guid(02615e2dc3f1eaf4a9dc4f694651de6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Pavilions/Pavilion_1A.prefab using Guid(02615e2dc3f1eaf4a9dc4f694651de6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f540e637858753551f99b63d0583e083') in 0.014558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.746435 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Barrel_1A.prefab
+  artifactKey: Guid(29444c582cbccca46a7d5b597c9dd6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Barrel_1A.prefab using Guid(29444c582cbccca46a7d5b597c9dd6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd98f071f93f69470434fcb3cf962737') in 0.029689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Barrel_1A2.prefab
+  artifactKey: Guid(949c9477ec7966d419b91ff78aadb2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Barrel_1A2.prefab using Guid(949c9477ec7966d419b91ff78aadb2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cc7dd78abffa4d7610279a979a97ef4') in 0.015468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Ladder_5M.prefab
+  artifactKey: Guid(e238e0b03252fe240ac69c7db9707677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Ladder_5M.prefab using Guid(e238e0b03252fe240ac69c7db9707677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6491b03c65f91311de36dc1c689be8') in 0.009888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Stool_1A.prefab
+  artifactKey: Guid(5de482368863a09438b5696ed3b7fc1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Stool_1A.prefab using Guid(5de482368863a09438b5696ed3b7fc1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f969c9071ce656768dc314a1378573f8') in 0.014977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Crate_1A2.prefab
+  artifactKey: Guid(fa6f293300a85fb43a3dd925800dbdec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Crate_1A2.prefab using Guid(fa6f293300a85fb43a3dd925800dbdec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '575b892544483e1a4a02c7a1d2ad5799') in 0.010676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Crate_1B.prefab
+  artifactKey: Guid(c460c06a98ed6d7449f304991c466cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Crate_1B.prefab using Guid(c460c06a98ed6d7449f304991c466cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfd83b75cc01352909449edb5db28439') in 0.010984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Crate_1B2.prefab
+  artifactKey: Guid(969677c73aad12c418d07d083ea8b268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Crate_1B2.prefab using Guid(969677c73aad12c418d07d083ea8b268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030c14627bc050e4eb5bedc507f64daf') in 0.011384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Crate_1A.prefab
+  artifactKey: Guid(1e54abf63a496e74e99907e887cc9b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Supplies, Crates, Barrels/Crate_1A.prefab using Guid(1e54abf63a496e74e99907e887cc9b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf4e845e3d80eab8131c66021596dd7f') in 0.011016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.540529 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Carpet_1A.prefab
+  artifactKey: Guid(1e559600fb355bc4287bf7aa5140e593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Carpet_1A.prefab using Guid(1e559600fb355bc4287bf7aa5140e593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9166013841f50e0200970ebe1b8f59f') in 0.018340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_1B.prefab
+  artifactKey: Guid(993983a1999ede14498cdceb325c0cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_1B.prefab using Guid(993983a1999ede14498cdceb325c0cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '502e65dc85f4c8355b9fcf2bd49343f6') in 0.010969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_1A.prefab
+  artifactKey: Guid(a1d0e5b1e78137947b5580f315c4e60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_1A.prefab using Guid(a1d0e5b1e78137947b5580f315c4e60a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eba0a4504ef510917902b1f356635ed4') in 0.008840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2F.prefab
+  artifactKey: Guid(21f098852a7e24d479dbbf119e7b8cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2F.prefab using Guid(21f098852a7e24d479dbbf119e7b8cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d00fb1b6d386b4c2c78ac4a2e56715') in 0.008608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_Circle_1A.prefab
+  artifactKey: Guid(e1f63536b361cb945aee90e6d0a1a749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_Circle_1A.prefab using Guid(e1f63536b361cb945aee90e6d0a1a749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dceaf97b8ce0312351c9ba901c4d9a3') in 0.019195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1G.prefab
+  artifactKey: Guid(9c3b5c73d52910a4eba8ea701b98f5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1G.prefab using Guid(9c3b5c73d52910a4eba8ea701b98f5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f7d6386ad8d94584d1eef85d8007cbf') in 0.007723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2C.prefab
+  artifactKey: Guid(7317cc61d680ffe4b96dee23e9c3d7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2C.prefab using Guid(7317cc61d680ffe4b96dee23e9c3d7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a8d260a70c21fbf260440dd19bcb42d') in 0.008508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1I.prefab
+  artifactKey: Guid(4289ada2a4a7a774c80ff55486a4cfa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1I.prefab using Guid(4289ada2a4a7a774c80ff55486a4cfa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700fdc3f4c27dcb9a1cddcb46f95d890') in 0.008597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2E.prefab
+  artifactKey: Guid(a44da8a9f68a89444b2866cbae5f3673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2E.prefab using Guid(a44da8a9f68a89444b2866cbae5f3673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd054331b8921c4c77aaac2578df17ab9') in 0.008294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Tent_1D.prefab
+  artifactKey: Guid(e679b61532759764ca61a7d2a757b4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Tent_1D.prefab using Guid(e679b61532759764ca61a7d2a757b4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2797bbcffcee20b303ec43c057922573') in 0.007843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2G.prefab
+  artifactKey: Guid(7a1e33a2e9a619d4bad7db47b2bf6123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2G.prefab using Guid(7a1e33a2e9a619d4bad7db47b2bf6123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f664c8af5be8de3a7d85b29f70b9bdfb') in 0.008862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1A.prefab
+  artifactKey: Guid(1efeca4c553d0bb4fa354676f2bec832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1A.prefab using Guid(1efeca4c553d0bb4fa354676f2bec832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68596e8b6df38062f7c38b2e854675f4') in 0.014230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_1C.prefab
+  artifactKey: Guid(e26ffac8b9df8264d8bca1c83ea46ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_1C.prefab using Guid(e26ffac8b9df8264d8bca1c83ea46ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21ee1b89b3557863b636f5a7a5f1b2f') in 0.008664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Tent_1A.prefab
+  artifactKey: Guid(7eedc0233bd2aa0409abfc062aaa8824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Tent_1A.prefab using Guid(7eedc0233bd2aa0409abfc062aaa8824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0467ebc9ad93fa10d2c2c0d687e8b169') in 0.008309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2D.prefab
+  artifactKey: Guid(1f518e40b1ba47043a6882de6c060810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2D.prefab using Guid(1f518e40b1ba47043a6882de6c060810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c84923fd15b075a7aa360ad94f3bc63') in 0.008170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1E.prefab
+  artifactKey: Guid(05a08c7c84d0e67488092bd6776ce1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1E.prefab using Guid(05a08c7c84d0e67488092bd6776ce1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ca1d9af087b8e50217c6be4528c04eb') in 0.007978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2B.prefab
+  artifactKey: Guid(38be7f95aeccd36438c960afae769f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2B.prefab using Guid(38be7f95aeccd36438c960afae769f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9d67eec4eb5880cca80e1030268801b') in 0.008142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1C.prefab
+  artifactKey: Guid(2e0bb295e3b74134f8c6487b0da5263f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1C.prefab using Guid(2e0bb295e3b74134f8c6487b0da5263f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69848545a915d8d2fcdee54a06319d8d') in 0.016837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Tent_2A.prefab
+  artifactKey: Guid(d68dfe1d0ec5969468f562154228f891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Tent_2A.prefab using Guid(d68dfe1d0ec5969468f562154228f891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ed4706bc9ccaffe03f51a790b072d1b') in 0.008186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1H.prefab
+  artifactKey: Guid(1cd0281baea52b04ab6ba774e204b3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1H.prefab using Guid(1cd0281baea52b04ab6ba774e204b3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3723991a71f81c7140ef66f7fbce1ea6') in 0.008076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Tent_1B.prefab
+  artifactKey: Guid(defd5a45ea96582489e8ca166b5a0e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Tent_1B.prefab using Guid(defd5a45ea96582489e8ca166b5a0e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e885f39f9855549fb51cae9e2a8e64') in 0.010685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Carpet_1B.prefab
+  artifactKey: Guid(747b62b23fd5aa34fa8666ffda894d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Carpet_1B.prefab using Guid(747b62b23fd5aa34fa8666ffda894d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df0ecf78734ba043e148aad8f830107') in 0.007630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Carpet_1B2.prefab
+  artifactKey: Guid(6d0c5e74f4c367d4583079780fbd5af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Carpet_1B2.prefab using Guid(6d0c5e74f4c367d4583079780fbd5af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0444cf1617f471157d6efa79d316dc9') in 0.007693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1B.prefab
+  artifactKey: Guid(b370f8369eeef9845ae675eaf173a2a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1B.prefab using Guid(b370f8369eeef9845ae675eaf173a2a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9818a663a95d437a7300665f287e2c79') in 0.010830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1D.prefab
+  artifactKey: Guid(e8d2a5fb8a4b2294ca0b6bb37ff25e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1D.prefab using Guid(e8d2a5fb8a4b2294ca0b6bb37ff25e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a65718afb788c0b7901aa769503a00d1') in 0.007729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Carpet_1A2.prefab
+  artifactKey: Guid(d4d4c664cb1ca224f843f4eb08808f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Carpet_1A2.prefab using Guid(d4d4c664cb1ca224f843f4eb08808f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f6c2d4b99a0d129962b9db0ef645303') in 0.007641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Tent_1C.prefab
+  artifactKey: Guid(51bcb9081508a8644a8eabc58c08e055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Tent_1C.prefab using Guid(51bcb9081508a8644a8eabc58c08e055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed85815b5ee90703908c8ab4d1822f4e') in 0.012599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1F.prefab
+  artifactKey: Guid(98254adcb4557db4bb9c59d928c34cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Stone_1F.prefab using Guid(98254adcb4557db4bb9c59d928c34cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '708349e71e5beb51732744e8a9fe70bd') in 0.008120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2A.prefab
+  artifactKey: Guid(caa41eb6db1b6094e95b599ee74664d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Tents, Rocks/Rock_2A.prefab using Guid(caa41eb6db1b6094e95b599ee74664d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6597918d7f2b4c690ba8afb2d65027') in 0.008018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 115.910965 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Bucket_1A.prefab
+  artifactKey: Guid(ea088ca2d8f621f4e81059fb753569ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Bucket_1A.prefab using Guid(ea088ca2d8f621f4e81059fb753569ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '803788dc7b895e8d61b0c6b24d2e1edb') in 0.011935 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Old_Stool_1A.prefab
+  artifactKey: Guid(9879b9794cbe193498288d6b366b391f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Old_Stool_1A.prefab using Guid(9879b9794cbe193498288d6b366b391f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a3f28b0b09f024f03ea125068f5210') in 0.012150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Old_Table_1B.prefab
+  artifactKey: Guid(fd4734dd8870ab244b524a98fce5b55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Old_Table_1B.prefab using Guid(fd4734dd8870ab244b524a98fce5b55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '541ec89dcf642036a095eb84b9f2222d') in 0.009924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Urn_1C.prefab
+  artifactKey: Guid(7bb35a61388095544939edd9151f002d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Urn_1C.prefab using Guid(7bb35a61388095544939edd9151f002d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20da48d8ed5f5b254c894708307594ab') in 0.023412 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Urn_1B.prefab
+  artifactKey: Guid(911c881c86dc2d74c9101df40edbf87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Urn_1B.prefab using Guid(911c881c86dc2d74c9101df40edbf87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f605ba81b88f59a36e6c04624c78955') in 0.010259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Urn_1A.prefab
+  artifactKey: Guid(80a06eff99e735f4f8c6a1d33412b1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Urn_1A.prefab using Guid(80a06eff99e735f4f8c6a1d33412b1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43bb4ae15f6108ff2d98ff096f6d8afe') in 0.008594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Old_Chair_1A.prefab
+  artifactKey: Guid(61f7a8eea3378af40b5c4de69adb514b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Old_Chair_1A.prefab using Guid(61f7a8eea3378af40b5c4de69adb514b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '331292486c32fce86be074c5ab4a438c') in 0.009721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Old_Stool_1B.prefab
+  artifactKey: Guid(50a8948815bdca84dbcb98bd2a8dd539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Old_Stool_1B.prefab using Guid(50a8948815bdca84dbcb98bd2a8dd539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc9d9861b54a3cd8c9e0a07615d3d8f') in 0.009846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Old_Table_1A.prefab
+  artifactKey: Guid(29526a4fa427e3e40988e00e2a4256f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Old_Table_1A.prefab using Guid(29526a4fa427e3e40988e00e2a4256f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba307c5412d88284510d5fba8d902ec7') in 0.009380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Bucket_1B.prefab
+  artifactKey: Guid(92cf76ba1966bc547ac85dca4a7bbc6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Furniture/Bucket_1B.prefab using Guid(92cf76ba1966bc547ac85dca4a7bbc6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2216303f4fa73ed7c3342a697450f6') in 0.008596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.978613 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Rowboats/Rowboat_1A.prefab
+  artifactKey: Guid(01bee09a1a154d641b5d2168fdc74e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Rowboats/Rowboat_1A.prefab using Guid(01bee09a1a154d641b5d2168fdc74e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60ec513451e43755836568f4089aa225') in 0.020076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Rowboats/Rowboat_1B.prefab
+  artifactKey: Guid(93b68add2e0648f44bde0327aa14cdbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Rowboats/Rowboat_1B.prefab using Guid(93b68add2e0648f44bde0327aa14cdbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb10eef5ae408db7065328eca0f7356e') in 0.013439 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Rowboats/Rowboat_Paddle_1A.prefab
+  artifactKey: Guid(669fccde8ab15cb4f871e3aa9f233be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Rowboats/Rowboat_Paddle_1A.prefab using Guid(669fccde8ab15cb4f871e3aa9f233be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233625b8d2e88229f1e2296f6f62e9fc') in 0.009459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Rowboats/Rowboat_1C.prefab
+  artifactKey: Guid(97cdab48a744dcc439d632fddb740290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Rowboats/Rowboat_1C.prefab using Guid(97cdab48a744dcc439d632fddb740290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3aa663736646e393bc65332d52bd4e1') in 0.012933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Rowboats/Rowboat_Paddle_1B.prefab
+  artifactKey: Guid(6fb2dba6662a017448bbf6a760595a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Rowboats/Rowboat_Paddle_1B.prefab using Guid(6fb2dba6662a017448bbf6a760595a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26158dad599e9573c9415c82f3c36880') in 0.009334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.438593 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1A.prefab
+  artifactKey: Guid(5ff7f0772a02a864db5812b541ee07d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1A.prefab using Guid(5ff7f0772a02a864db5812b541ee07d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0708b20f1f329a0faa94d76656a2a2c') in 0.023284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2B2.prefab
+  artifactKey: Guid(830927180039fe04593f9fef5ea0f001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2B2.prefab using Guid(830927180039fe04593f9fef5ea0f001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d27adb77e5fdb72556206ddedca2b3d') in 0.014130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1A2.prefab
+  artifactKey: Guid(b43c66f626d7201498062137d082df3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1A2.prefab using Guid(b43c66f626d7201498062137d082df3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1ed0cf45a5b0ff97d2eae69c8f78e6') in 0.011799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2C2.prefab
+  artifactKey: Guid(a2bc2b7009e396048bd16e78dd25bb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2C2.prefab using Guid(a2bc2b7009e396048bd16e78dd25bb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f05b2cffcdca34588852694247f4b3') in 0.011308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2C.prefab
+  artifactKey: Guid(bc367d5b078c5de4598d66d840e3ee48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2C.prefab using Guid(bc367d5b078c5de4598d66d840e3ee48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e64500a6f2794200c205b1dad74736') in 0.011026 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1C.prefab
+  artifactKey: Guid(e69f31b4a9eacc240abb4113548d3141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1C.prefab using Guid(e69f31b4a9eacc240abb4113548d3141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ae2864b36e14a9790502408eff24f8') in 0.010922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1D.prefab
+  artifactKey: Guid(e62d183b4bfb22b46a40bdd1af2e3a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1D.prefab using Guid(e62d183b4bfb22b46a40bdd1af2e3a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4318229a94e9e51900bc4b8e19d248d3') in 0.010885 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2D2.prefab
+  artifactKey: Guid(24bb4d8514a5eff4497d9918e97c0f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2D2.prefab using Guid(24bb4d8514a5eff4497d9918e97c0f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e2d35069b6b5e0377a326096b77a82') in 0.010770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1D2.prefab
+  artifactKey: Guid(b15acb09236c76347b318aee417f5cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1D2.prefab using Guid(b15acb09236c76347b318aee417f5cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115f1c82425ea4d75020bf6961522a5e') in 0.013877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1B2.prefab
+  artifactKey: Guid(fcfaa489735a8444f8f3bac6f7c5d0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1B2.prefab using Guid(fcfaa489735a8444f8f3bac6f7c5d0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5a579c1db3367e839771be31e6dc7b5') in 0.010877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2B.prefab
+  artifactKey: Guid(faf16fcb8512e1c4fa612e38efc9c60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2B.prefab using Guid(faf16fcb8512e1c4fa612e38efc9c60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e2b39cb90f872c79e74121feb9cc32') in 0.010503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1C2.prefab
+  artifactKey: Guid(e0174c06d00984747a7c4556660405f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1C2.prefab using Guid(e0174c06d00984747a7c4556660405f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0baced3ced6a88570589653d40453a6b') in 0.010582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2A.prefab
+  artifactKey: Guid(cb4f052029ed1db4086fcdcaffb2faa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2A.prefab using Guid(cb4f052029ed1db4086fcdcaffb2faa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00663ab7bebcad40e9343c7ee7e85fe5') in 0.014166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1B.prefab
+  artifactKey: Guid(c90bdef480e59894aa5e16f0ad1bd067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_1B.prefab using Guid(c90bdef480e59894aa5e16f0ad1bd067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e18a131f6406f3c63bb389f8fa51b3') in 0.010698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2A2.prefab
+  artifactKey: Guid(45a73657f78c520478b594e428c93c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2A2.prefab using Guid(45a73657f78c520478b594e428c93c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f616d8e78c16d1de0e88539f1e07bed0') in 0.012146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2D.prefab
+  artifactKey: Guid(ba534c1af05765c41a73b534423cff93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Boats, Ships, Docks/Quays, Docks/Dock_2D.prefab using Guid(ba534c1af05765c41a73b534423cff93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8c212e8f284a7c9b19a1590a58ae4e') in 0.010665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 708.442947 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1A.prefab
+  artifactKey: Guid(58ba9ea8aef5b5b4dbfd9b4054e4ad71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1A.prefab using Guid(58ba9ea8aef5b5b4dbfd9b4054e4ad71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765557d3cfd0db9ff5509fb7af1cb522') in 0.013595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_2A.prefab
+  artifactKey: Guid(3269b5455a6c7d14ab51be2e78cc9716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_2A.prefab using Guid(3269b5455a6c7d14ab51be2e78cc9716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e39cbc8b46418be01fb1f9b17a29a188') in 0.010897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_2B.prefab
+  artifactKey: Guid(fa9909fcf0acc164cb37c223c8d0be8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_2B.prefab using Guid(fa9909fcf0acc164cb37c223c8d0be8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229c858830037f4eba3fcb054347511d') in 0.010177 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_1E.prefab
+  artifactKey: Guid(9a804ba9353b3b540a93b1085efe691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_1E.prefab using Guid(9a804ba9353b3b540a93b1085efe691d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4da793d9fb934be27954e633ab6c6bd') in 0.010897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_1D.prefab
+  artifactKey: Guid(e77176d83772e184b872b07f76c1bd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_1D.prefab using Guid(e77176d83772e184b872b07f76c1bd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47649972fbfd8cd2185eb37ec5e473c0') in 0.009700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_2B.prefab
+  artifactKey: Guid(3699e4b7e16fdb14b8f5aceb9f13c47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_2B.prefab using Guid(3699e4b7e16fdb14b8f5aceb9f13c47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f4e8de07420cd5e5b1c203a42eb3e3') in 0.013061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1A2.prefab
+  artifactKey: Guid(c77f1403c3a822f4981c4de09444e057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1A2.prefab using Guid(c77f1403c3a822f4981c4de09444e057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd65c917a80cac8475622247810c1aa') in 0.009792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Holder_1B.prefab
+  artifactKey: Guid(aa032711d0d918b4b9a4dc7265613832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Holder_1B.prefab using Guid(aa032711d0d918b4b9a4dc7265613832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e33c3222cec0ad10f608dbd1129435d1') in 0.009251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Holder_1A.prefab
+  artifactKey: Guid(f829d21e612589040ad6240fb5fe8508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Holder_1A.prefab using Guid(f829d21e612589040ad6240fb5fe8508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a2b017e869059c6ef89a05f73994d70') in 0.013448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_2C.prefab
+  artifactKey: Guid(2920bb1d18507e04aa1031825ed73aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_2C.prefab using Guid(2920bb1d18507e04aa1031825ed73aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6371c82840727f48f42c3800c9c0ba91') in 0.009496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1B.prefab
+  artifactKey: Guid(775d69c795c578d45901fd6c76281b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1B.prefab using Guid(775d69c795c578d45901fd6c76281b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e339adbab683cd670a8c825d14f24219') in 0.009672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1B2.prefab
+  artifactKey: Guid(7f6b80c28f986c14dae96e45a426979e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1B2.prefab using Guid(7f6b80c28f986c14dae96e45a426979e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b6cedcba03c2f2ee43410a9e0d7c8b0') in 0.010692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1B.prefab
+  artifactKey: Guid(113f3d21a1d182f4eb6f9ca6c9a44dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1B.prefab using Guid(113f3d21a1d182f4eb6f9ca6c9a44dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47d215f325f6a7998955c51e3adc32a') in 0.009611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Pile_1B.prefab
+  artifactKey: Guid(ce82d0f0795a5a34cbac1895e61857ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Pile_1B.prefab using Guid(ce82d0f0795a5a34cbac1895e61857ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37fab0853790a680ec26d4ea45c6df48') in 0.009880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Rounded_Rope_1.prefab
+  artifactKey: Guid(a5b5e0bf9d69b704498726feb9727dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Rounded_Rope_1.prefab using Guid(a5b5e0bf9d69b704498726feb9727dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a38e5de07b12f68f46a647cb0b31650') in 0.007391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Support_1A.prefab
+  artifactKey: Guid(f2084ee142047b74d98de01192472e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Support_1A.prefab using Guid(f2084ee142047b74d98de01192472e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57ad3d8fb6755056af70d0a7710171f5') in 0.007860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Support_1D.prefab
+  artifactKey: Guid(1f5321f53aa7fdc4f870abd2da0e4570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Support_1D.prefab using Guid(1f5321f53aa7fdc4f870abd2da0e4570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87272f47b18359ea2c1fe9aff76c68e5') in 0.008023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1A.prefab
+  artifactKey: Guid(2470ef6b62841f1489cad1e297c3a7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1A.prefab using Guid(2470ef6b62841f1489cad1e297c3a7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37bb555fff6e43ff43daab1c235fdde1') in 0.011101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Pile_1C.prefab
+  artifactKey: Guid(1c8c19b0bec3950409278f299ba7f316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Pile_1C.prefab using Guid(1c8c19b0bec3950409278f299ba7f316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf569f55ccc689ac8a2b94cd255f2e4') in 0.009571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_1A.prefab
+  artifactKey: Guid(a33113401cfb32a418556824cf4d9dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_1A.prefab using Guid(a33113401cfb32a418556824cf4d9dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3411325f7307b28234223cfdf09bee33') in 0.009767 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_1C.prefab
+  artifactKey: Guid(8aeb80d1a37fea64d8c1d7d8ecc57af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_1C.prefab using Guid(8aeb80d1a37fea64d8c1d7d8ecc57af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b3f89ced851ab8e2cf8250dbac6628') in 0.010363 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_1C.prefab
+  artifactKey: Guid(af0235f6cb2589648bc7a5007923f964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_1C.prefab using Guid(af0235f6cb2589648bc7a5007923f964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f0b4cc7c3590a465cc8de6bebcc9b45') in 0.009638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_1C.prefab
+  artifactKey: Guid(f1254037b6fc3ab4d97966c7a88726ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_1C.prefab using Guid(f1254037b6fc3ab4d97966c7a88726ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06723dda38a818217839bba37ead897d') in 0.013513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Trunk_1B.prefab
+  artifactKey: Guid(3d783774b20f3884fa07db7c1b7e60c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Trunk_1B.prefab using Guid(3d783774b20f3884fa07db7c1b7e60c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88415da838eaa1afd350efad907ac7ee') in 0.009061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_1B.prefab
+  artifactKey: Guid(acd280d1d476f1e45bab9c6629cc002f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_1B.prefab using Guid(acd280d1d476f1e45bab9c6629cc002f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '474be157a42a9901b053636d4205e97d') in 0.009585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1A2.prefab
+  artifactKey: Guid(22a9ad8e6c01aa1428735d12086e2b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1A2.prefab using Guid(22a9ad8e6c01aa1428735d12086e2b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9917706b9853d8c752fdb3c4f934ca7') in 0.009350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_2B.prefab
+  artifactKey: Guid(15f938c2d771562408ad6e67a4202c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_2B.prefab using Guid(15f938c2d771562408ad6e67a4202c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed99937d9980ddac4e8244439c4a7fe') in 0.009507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1D.prefab
+  artifactKey: Guid(454ee021f0827e4499066e1841532a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1D.prefab using Guid(454ee021f0827e4499066e1841532a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d91174b456a997a39ff6aea9d5a707d') in 0.017144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_2C.prefab
+  artifactKey: Guid(0c840d0971a6bd440bbc6c0163b78ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_2C.prefab using Guid(0c840d0971a6bd440bbc6c0163b78ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e25fa4a303d156b554c34e6e16df5a3') in 0.010267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1D.prefab
+  artifactKey: Guid(28902308ee955b5459b395319cead2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1D.prefab using Guid(28902308ee955b5459b395319cead2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66c3eb2e7c02e8b53349001ee59f840') in 0.009432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Support_1B.prefab
+  artifactKey: Guid(480848c41d7eec640b8b508ed7e4a355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Support_1B.prefab using Guid(480848c41d7eec640b8b508ed7e4a355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc97d9b545b81dafbd47542a4ec4738') in 0.012682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_2A.prefab
+  artifactKey: Guid(2be576ab8b3236947bb3180e119ad727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Spiked_Fencing_2A.prefab using Guid(2be576ab8b3236947bb3180e119ad727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f79cc8f942d8bed8fbb992e79021ac45') in 0.009118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1E.prefab
+  artifactKey: Guid(7bff39be6f5983841a73ce420d680c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1E.prefab using Guid(7bff39be6f5983841a73ce420d680c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4672bf055937c8055d46b62249c84f1') in 0.009202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1C.prefab
+  artifactKey: Guid(83b9ddc23bc965c4bab10271062d3353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Hatch_1C.prefab using Guid(83b9ddc23bc965c4bab10271062d3353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '707dfb4512b4b5cf52c505278320ecef') in 0.010042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Pile_1A.prefab
+  artifactKey: Guid(3e14971f7a5924a4a95a356c6488294b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Pile_1A.prefab using Guid(3e14971f7a5924a4a95a356c6488294b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7638d894c8aa1939967f1a0ca97db638') in 0.009354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Trunk_1A.prefab
+  artifactKey: Guid(dcc2044ed785df34db2696d7fb4d0383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Trunk_1A.prefab using Guid(dcc2044ed785df34db2696d7fb4d0383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42543857e06348b57f39f6472f07be6') in 0.010468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1C.prefab
+  artifactKey: Guid(36cbe5e33698272459435a8f7f59bb45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Camp_Gate_1C.prefab using Guid(36cbe5e33698272459435a8f7f59bb45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37365499fab133aec5c9aa941eb3748a') in 0.009263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_1B.prefab
+  artifactKey: Guid(8e3bcf65063fa4f45a06f277efd8d711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_1B.prefab using Guid(8e3bcf65063fa4f45a06f277efd8d711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0f0b373e7aa6d49755abaa793c1a35') in 0.008789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Holder_1C.prefab
+  artifactKey: Guid(2519ba2d0c9ffce47b8fdc08b77a0fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Gate_Board_Holder_1C.prefab using Guid(2519ba2d0c9ffce47b8fdc08b77a0fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc507c5e0689f2a28a4bbac22b8ed30b') in 0.009540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Support_1C.prefab
+  artifactKey: Guid(ff8fe5cfb324cb741b54a266f98d38f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_Support_1C.prefab using Guid(ff8fe5cfb324cb741b54a266f98d38f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e965272a462431c550a8b31ffd91619') in 0.007760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Trunk_1B2.prefab
+  artifactKey: Guid(2cbd154202b672a46b5c58a107fbce43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Trunk_1B2.prefab using Guid(2cbd154202b672a46b5c58a107fbce43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af3ff5f24af1a49e45b42ec56c143c1f') in 0.011566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_1B.prefab
+  artifactKey: Guid(8c6663eec11dd0f47aa163fbc8277782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_1B.prefab using Guid(8c6663eec11dd0f47aa163fbc8277782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c05faa525e83e8cb90b5ba6816cc36') in 0.009577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_1A.prefab
+  artifactKey: Guid(c398177b36005a54aa5355c65a526521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_1A.prefab using Guid(c398177b36005a54aa5355c65a526521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7cadf543ff52f1ff12b8788980ad6a') in 0.011328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_2C.prefab
+  artifactKey: Guid(192a5aac3b9a24a4393ad24159840c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_2C.prefab using Guid(192a5aac3b9a24a4393ad24159840c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72cd7286903d5e315d230f90279e29e3') in 0.013749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_1A.prefab
+  artifactKey: Guid(ea0d4b7d22767a34a98192764305bfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_1A.prefab using Guid(ea0d4b7d22767a34a98192764305bfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b64040f25972cf6bfd8c77829b32223') in 0.009416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_2A.prefab
+  artifactKey: Guid(be18cc2b67c5e9a40b435a1ad9a2e720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_2A.prefab using Guid(be18cc2b67c5e9a40b435a1ad9a2e720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b88877573953a03d063292cc6ca028') in 0.009375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Trunk_1A2.prefab
+  artifactKey: Guid(65b188bc3e0194e48988ce2a7d84a892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Trunk_1A2.prefab using Guid(65b188bc3e0194e48988ce2a7d84a892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '966d904975e016680e36ce077d465cc4') in 0.010464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_1E.prefab
+  artifactKey: Guid(8ed3e8016731b0c49b1297e6572b16d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_1E.prefab using Guid(8ed3e8016731b0c49b1297e6572b16d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b944103025c32fb14c2cbbc7e602a79f') in 0.009871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_1D.prefab
+  artifactKey: Guid(9d270a009dc65eb4786ae66b6980ee17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Log_1D.prefab using Guid(9d270a009dc65eb4786ae66b6980ee17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31b2c84021c39d2e354c5d750daba916') in 0.010826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.753158 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_2D.prefab
+  artifactKey: Guid(678f5de964d546548982f612d67c303c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_2D.prefab using Guid(678f5de964d546548982f612d67c303c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f42262fd7cf8b33f980530ba5a3099f2') in 0.010576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_2E.prefab
+  artifactKey: Guid(8b68215d20fbab241a9c3dad4858df52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Wood, Fencing/Wall_2E.prefab using Guid(8b68215d20fbab241a9c3dad4858df52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5fc8faa66d7eeea47ec076e2b68ee8') in 0.009493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 78.706031 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Trees/Tree_1_7.prefab
+  artifactKey: Guid(c6e77bda7f33b364da7931f7b435d347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Trees/Tree_1_7.prefab using Guid(c6e77bda7f33b364da7931f7b435d347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733835c850f1ac367b6652a81d15c89b') in 0.292511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Trees/Tree_1A(Dead).prefab
+  artifactKey: Guid(6d316371cd8021c44a6bd04a1fbe30ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Trees/Tree_1A(Dead).prefab using Guid(6d316371cd8021c44a6bd04a1fbe30ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c56e0eae8b96aa8ae4acaea679b64490') in 0.011449 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Trees/Tree_Custom_1B.prefab
+  artifactKey: Guid(483e603cf995c9840bb841c2a2386013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Prefabs/Bandits, Camps/Trees/Tree_Custom_1B.prefab using Guid(483e603cf995c9840bb841c2a2386013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c01b6b118932f8194da87b2594677d4') in 0.016069 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000303 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.077 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1161 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5 unused Assets / (23.9 KB). Loaded Objects now: 1696.
+Memory consumption went from 237.0 MB to 237.0 MB.
+Total: 1.957917 ms (FindLiveObjects: 0.077250 ms CreateObjectMapping: 0.024792 ms MarkObjects: 1.835916 ms  DeleteObjects: 0.019000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2076.554482 seconds.
+  path: Assets/Scene Assets/UF Creator LITE/Textures/Textures/Terrain/Terrain_Cliff_2A.png
+  artifactKey: Guid(c745abb3e238c254185dc69636a39cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene Assets/UF Creator LITE/Textures/Textures/Terrain/Terrain_Cliff_2A.png using Guid(c745abb3e238c254185dc69636a39cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0f456e8103ac6a8cde612003b33383') in 0.503414 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000287 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.053 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1162 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4 unused Assets / (21.9 KB). Loaded Objects now: 1714.
+Memory consumption went from 242.6 MB to 242.5 MB.
+Total: 2.109667 ms (FindLiveObjects: 0.094833 ms CreateObjectMapping: 0.025792 ms MarkObjects: 1.971083 ms  DeleteObjects: 0.016708 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000258 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.053 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1161 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4 unused Assets / (22.0 KB). Loaded Objects now: 1717.
+Memory consumption went from 243.0 MB to 243.0 MB.
+Total: 1.985667 ms (FindLiveObjects: 0.079458 ms CreateObjectMapping: 0.025167 ms MarkObjects: 1.864750 ms  DeleteObjects: 0.015334 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
